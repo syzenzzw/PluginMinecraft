@@ -1,0 +1,4 @@
+name: PluginMinecraft
+version: '1.0-SNAPSHOT'
+main: br.com.elton.pluginMinecraft.PluginMinecraft
+api-version: '1.20'
