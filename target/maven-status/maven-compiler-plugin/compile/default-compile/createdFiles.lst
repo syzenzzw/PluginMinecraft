@@ -1,1 +1,4 @@
 br\com\elton\pluginMinecraft\PluginMinecraft.class
+br\com\elton\pluginMinecraft\commands\PluginCommands.class
+br\com\elton\pluginMinecraft\connection\Conexao.class
+br\com\elton\pluginMinecraft\listener\EltonListener.class
